@@ -15,3 +15,8 @@ This repository serves as a showcase of my skills and experience in software dev
 - **[Sentiment Analysis](https://colab.research.google.com/drive/1s0cIJ-d3kNy7MNvHf4P0dzYmuH9IDOf6?usp=sharing)** - Sentiment analysis model using sentence transformers and a simple neural network with two hidden layers, each having a ReLU activation function. The model currently is 80% accurate.
 - **[Linear Regression From Scratch](https://colab.research.google.com/drive/17GbaRmudM5v08ENQgkANDvFegYS8GLZQ?usp=sharing)** - Implemented a simple linear regression model from scratch with Scikit-Learn.
 - **[SkillCheck](https://github.com/Gokul-sc/SkillCheck)** - Made a quiz AI feedback web app which uses the Groq API to continuously give feedback to the user after each quiz.
+
+## Contact Information
+- **Name:** P Gokul Sree Chandra
+- **Email:** polavarapugokul@gmail.com
+- **LinkedIn:** [Gokul Sree Chandra](https://www.linkedin.com/in/gokulsreechandra/)
