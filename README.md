@@ -20,4 +20,4 @@ This repository serves as a showcase of my skills and experience in software dev
 - **Name:** P Gokul Sree Chandra
 - **Email:** polavarapugokul@gmail.com
 - **LinkedIn:** [Gokul Sree Chandra](https://www.linkedin.com/in/gokulsreechandra/)
-- **[Portfolio Website]**[GokulAIx](https://soft-truffle-eada3e.netlify.app/)
+- **Portfolio Website** [GokulAIx](https://soft-truffle-eada3e.netlify.app/)
