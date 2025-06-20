@@ -4,8 +4,7 @@ Welcome to my Projects Repository! This is a centralized collection of all the p
 
 
 ## 🌟 Featured Projects (Click the Title For Code)
-- **[Sentiment Analysis](https://colab.research.google.com/drive/1s0cIJ-d3kNy7MNvHf4P0dzYmuH9IDOf6?usp=sharing)** - Sentiment analysis model using sentence transformers and a simple neural network with two hidden layers, each having a ReLU activation function. The model currently is 80% accurate.
-- **[Linear Regression From Scratch](https://colab.research.google.com/drive/17GbaRmudM5v08ENQgkANDvFegYS8GLZQ?usp=sharing)** - Implemented a simple linear regression model from scratch with Scikit-Learn.
+- **[Sentiment Analysis](https://github.com/GokulAIx/Sentiment-Analysis)** - Sentiment analysis model using sentence transformers and a simple neural network with two hidden layers, each having a ReLU activation function. The model currently is 80% accurate.
 - **[SkillCheck](https://github.com/Gokul-sc/SkillCheck)** - Made a quiz AI feedback web app which uses the Groq API to continuously give feedback to the user after each quiz.
 - **[Truth??](https://github.com/GokulAIx/Fake_News_Detector)** - A lightweight Streamlit app that classifies news headlines as real or fake using a PyTorch model.
 - 
